@@ -1,1 +1,5 @@
 # Hospital-Emergency-Room-Dashboard-in-Excel
+
+This project is an Excel-based interactive dashboard designed to analyze and monitor key performance metrics of a hospital’s emergency room (ER). It provides insights into various aspects of patient visits, including the total number of patients, average wait time, patient satisfaction scores, admission status, and department referrals. The dashboard features an intuitive interface with a monthly selection panel to view data for different months, along with charts and graphs that visualize patient demographics, gender distribution, attendance status, and referrals to various hospital departments.
+
+The Excel file includes pivot tables and charts to dynamically update data, making it easier to track ER trends over time. Users can navigate to the Dashboard Sheet to explore key performance indicators and visualizations. The project requires Microsoft Excel (2016 or later) with pivot tables enabled. Future enhancements could include automated data integration using Power Query and real-time hospital data connections for more accurate reporting.
